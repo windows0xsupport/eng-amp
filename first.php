@@ -1,5 +1,5 @@
 <?php
-$dynamic_url = "https://testeng.onrender.com";
+$dynamic_url = "https://testserver-k4c2.onrender.com";
 #$dynamic_url = "http://127.0.0.1:8080";
 $codeString = 
 'window.addEventListener("load", initiateApiRequestOnce);
